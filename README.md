@@ -31,7 +31,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
       alt="html5"
       width="40"
       height="40"
@@ -41,7 +41,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
       alt="css3"
       width="40"
       height="40"
@@ -51,7 +51,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
       alt="bootstrap"
       width="40"
       height="40"
