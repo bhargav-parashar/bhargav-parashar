@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style={display:"flex"}> 
+<div style="display:flex; flex-direction:row; justify-content:flex-start"> 
 
 
 
