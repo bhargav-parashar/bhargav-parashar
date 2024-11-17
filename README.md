@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋</h1>
+<h1 align="left">Hi there👋</h1>
 <h4 align="left">
   I'm Bhargav, a curious front-end developer crafting responsive and
   user-friendly web interfaces. I take interest in React, JavaScript, HTML, and CSS,
