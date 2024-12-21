@@ -51,7 +51,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"      alt="nodejs" 
+    src="https://nodejs.org/static/logos/jsIconGreen.svg" 
+    alt="nodejs" 
     width="40" 
     height="40"
   /> 
@@ -60,7 +61,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVb5G5loisybj9FQQmSaaThUD8bDhTnGAfA&s" 
     alt="express" 
     width="40"
     height="40"
