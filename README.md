@@ -3,7 +3,7 @@
   I'm Bhargav, a curious front-end developer crafting responsive and
   user-friendly web interfaces. I take interest in React, JavaScript, HTML, and CSS,
   and like exploring libraries and frameworks like Material UI, Swiper JS, and
-  Bootstrap to elevate my projects. Beyond the front-end, I also know how to create servers using NodeJs and implement Express framework mostly for routing. Presently learning MongoDB. I also have experience in SQL and creating stored procedures using it in MariaDB mostly. 
+  Bootstrap to elevate my projects. Beyond the front-end, I also know how to create servers using NodeJs and implement Express framework mostly for routing. Presently learning MongoDB. I also have experience in SQL - DDL, DQL, DML, stored procedures. 
 </h4>
 
 
