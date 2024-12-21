@@ -28,26 +28,6 @@
     />
   </a>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
-    <img
-      align="left"
-      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="text-decoration:none">
-    <img
-      align="left"
-      src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
@@ -67,6 +47,27 @@
     height="40"
     /> 
   </a> 
+
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
