@@ -61,7 +61,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
-    src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" 
+    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" 
     alt="express" 
     width="40"
     height="40"
