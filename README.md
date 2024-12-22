@@ -41,7 +41,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
-    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" 
+    src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" 
     alt="express" 
     width="40"
     height="40"
