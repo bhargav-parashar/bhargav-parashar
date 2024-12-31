@@ -43,7 +43,7 @@
     >
     <div
       style="
-        width: 40px;
+        width: 10px;
         height: 40px;
         display: flex;
         justify-content: center;
