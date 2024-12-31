@@ -35,6 +35,33 @@
   /> 
   </a>
 
+  <a
+      href="https://nodejs.org"
+      target="_blank"
+      rel="noreferrer"
+      style="text-decoration: none"
+    >
+    <div
+      style="
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        border: 3px solid #545AA7;
+        border-radius: 10px;  
+        padding: 2px;
+      "
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="Description"
+        style="width: 100%; height: 100%; object-fit: cover"
+      />
+    </div>
+</a>
+
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
