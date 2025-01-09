@@ -57,6 +57,16 @@
     />
    </a>
 
+   <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+   <img 
+     align="left"
+     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+     alt="postman" 
+     width="40" 
+     height="40"
+     /> 
+    </a>
+
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
@@ -98,6 +108,16 @@
     />
   </a>
 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
@@ -107,15 +127,18 @@
       height="40"
     />
   </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"  style="text-decoration:none">
-    <img
-      align="left"
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
+  
+  <a href="https://appian.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+   <img 
+     align="left"
+     src="https://upload.wikimedia.org/wikipedia/en/9/93/Appian_Logo.svg" 
+     alt="appian" 
+     width="40" 
+     height="40"
+     /> 
+    </a>
+    
+   
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
