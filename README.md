@@ -158,7 +158,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhargavparashar" target="blank">
+  <a href="https://linkedin.com/in/bhargavparashar" target="_blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -166,7 +166,9 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       height="15"
       width="25"
   /></a>
-  <a href="https://leetcode.com/u/bhp100/" target="_blank" style={{display:"hidden"}}>
+
+  <!-- 
+  <a href="https://leetcode.com/u/bhp100/" target="_blank" >
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
@@ -174,5 +176,5 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       height="15"
       width="25" 
     /></a>
-  
+  -->
 </p>
