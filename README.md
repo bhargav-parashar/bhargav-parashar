@@ -166,7 +166,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       height="15"
       width="25"
   /></a>
-  <a href="https://leetcode.com/u/bhp100/" target="_blank">
+  <a href="https://leetcode.com/u/bhp100/" target="_blank" style={{display:"hidden"}}>
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
