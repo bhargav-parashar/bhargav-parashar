@@ -158,13 +158,21 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhargavparashar" target="blank"
-    ><img
+  <a href="https://linkedin.com/in/bhargavparashar" target="blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="bhargavparashar"
       height="15"
       width="25"
   /></a>
+  <a href="https://leetcode.com/u/bhp100/" target="blank">
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      alt="bhp100" 
+      height="15"
+      width="25" 
+    /></a>
   
 </p>
