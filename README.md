@@ -15,6 +15,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       alt="react"
       width="30"
       height="30"
+      
     />
   </a>
 
