@@ -15,8 +15,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       alt="react"
       width="30"
       height="30"
-      
-    />
+     />
   </a>
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  style="text-decoration:none">
