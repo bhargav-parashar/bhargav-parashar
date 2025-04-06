@@ -60,15 +60,16 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
     />
    </a>
 
-   <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-   <img 
-     align="left"
-     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-     alt="postman" 
-     width="30" 
-     height="30"
-     /> 
-    </a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+  <img 
+    align="left"
+    src="https://icon.icepanel.io/Technology/svg/Postman.svg" 
+    alt="postman" 
+    width="30" 
+    height="30"
+    />
+   </a>
+   
 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
