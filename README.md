@@ -168,7 +168,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       width="25"
   /></a>
 
-
+<!--
   <a href="https://leetcode.com/u/bhp100/" target="_blank" >
     <img 
       align="center" 
@@ -177,5 +177,5 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       height="15"
       width="25" 
     /></a>
-
+-->
 </p>
