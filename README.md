@@ -116,7 +116,7 @@ DEV OPS : Azure Dev-ops.
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
       alt="figma"
       width="30"
       height="30"
