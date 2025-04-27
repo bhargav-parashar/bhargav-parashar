@@ -4,8 +4,7 @@
   </br></br>
 FRONTEND : ReactJS, HTML, CSS, Vanilla Javascript, Material UI, react-router-dom, axios, notistack, dayjs, Bootstrap, Figma.</br></br>
 BACKEND : NodeJs, Express, MongoDB, Mongoose ODM, MariaDB, SQL, Stored Procedures, Postman, JSON Web Token, bcrypt (password hashing), joi, cors. </br></br>
-PERFORMANCE CONCEPTS : Lazy Loading, Custom hooks, Debouncing </br></br>
-CLOUD PLATFORMS : Appian, Azure Dev-ops.  
+DEV OPS : Azure Dev-ops.  
 </h4>
 
 
@@ -155,6 +154,85 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
     />
   </a>
 </br>
+
+</p>
+<h2>Projects</h2>
+<table style="font-size: 12px; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 4px; text-align: left;">Project</th>
+      <th style="padding: 4px; text-align: left;">Tech Stack</th>
+      <th style="padding: 4px; text-align: left;">Description</th>
+      <th style="padding: 4px; text-align: left;">Live Site</th>
+      <th style="padding: 4px; text-align: left;">GitHub Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 4px;"><b>AuthHR</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose, Parcel, REST</td>
+      <td style="padding: 4px;">Full-stack, role based access control, JWT Authentication based HRM application.</td>
+      <td style="padding: 4px;"><a href="https://auth-hr.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/auth-HR" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>Medify</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, CRA, REST</td>
+      <td style="padding: 4px;">Doctor's appointment booking application.</td>
+      <td style="padding: 4px;"><a href="https://medify-bice-ten.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/medify" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>QKart</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, CRA, REST</td>
+      <td style="padding: 4px;">E-commerce Platform with cart feature.</td>
+      <td style="padding: 4px;"><a href="https://qkart-frontend-fxws968e5-bhargav-parashars-projects.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/bhargavparashar99-ME_QKART_FRONTEND_V2" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>Expense Tracker</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, CRA</td>
+      <td style="padding: 4px;">A personal expense tracker application.</td>
+      <td style="padding: 4px;"><a href="https://expense-tracker-rose-nine.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/expense-tracker" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>QTify</b></td>
+      <td style="padding: 4px;">React, JavaScript, Swiper, HTML, CSS, CRA</td>
+      <td style="padding: 4px;">Music Streaming App UI Layout.</td>
+      <td style="padding: 4px;"><a href="https://qtify-seven-iota.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/L-square-QTify" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>SwiftExit</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose, Vite, REST</td>
+      <td style="padding: 4px;">JWT Auth enables RBAC application for submitting and reviewing resignations.</td>
+      <td style="padding: 4px;"><a href="https://swift-exit-frontend.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/swift-exit-fullstack-app" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>Task Manager</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose, CRA, REST</td>
+      <td style="padding: 4px;">CRUD operations based full-stack task management platform.</td>
+      <td style="padding: 4px;"><a href="https://task-manager-frontend-green.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/task-manager-fullstack" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>Weather App</b></td>
+      <td style="padding: 4px;">React, JavaScript, HTML, CSS, CRA, REST</td>
+      <td style="padding: 4px;">Live weather data App which displays current weather of chosen location around the world.</td>
+      <td style="padding: 4px;"><a href="https://weather-app-eight-swart-30.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/weather-app" target="_blank">Code</a></td>
+    </tr>
+    <tr>
+      <td style="padding: 4px;"><b>BotAI</b></td>
+      <td style="padding: 4px;">React, MUI, JavaScript, HTML, CSS, CRA</td>
+      <td style="padding: 4px;">AI Chat Application UI Layout for static data.</td>
+      <td style="padding: 4px;"><a href="https://bot-ai-lime.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/bot-ai" target="_blank">Code</a></td>
+    </tr>
+  </tbody>
+</table>
 <hr >
 
 
@@ -170,7 +248,7 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       width="25"
   /></a>
 
-<!--
+
   <a href="https://leetcode.com/u/bhp100/" target="_blank" >
     <img 
       align="center" 
@@ -179,5 +257,6 @@ CLOUD PLATFORMS : Appian, Azure Dev-ops.
       height="15"
       width="25" 
     /></a>
--->
-</p>
+
+
+
