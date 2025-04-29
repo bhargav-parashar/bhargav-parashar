@@ -165,6 +165,7 @@ DEV OPS : Azure Dev-ops.
       <th style="padding: 4px; text-align: left;">Description</th>
       <th style="padding: 4px; text-align: left;">Live Site</th>
       <th style="padding: 4px; text-align: left;">GitHub Repo</th>
+      <th style="padding: 4px; text-align: left;">Demo</th>
     </tr>
   </thead>
   <tbody>
@@ -174,6 +175,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">Full-stack, role based access control, JWT Authentication based HRM application.</td>
       <td style="padding: 4px;"><a href="https://auth-hr.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/auth-HR" target="_blank">Code</a></td>
+      <td style="padding: 4px;"><a href="https://www.youtube.com/watch?v=VHpn7cg2_lQ" target="_blank">Video Walkthrough</a></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>Medify</b></td>
@@ -181,6 +183,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">Doctor's appointment booking application.</td>
       <td style="padding: 4px;"><a href="https://medify-bice-ten.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/medify" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>QKart</b></td>
@@ -188,6 +191,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">E-commerce Platform with cart feature.</td>
       <td style="padding: 4px;"><a href="https://qkart-frontend-fxws968e5-bhargav-parashars-projects.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/bhargavparashar99-ME_QKART_FRONTEND_V2" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>Expense Tracker</b></td>
@@ -195,6 +199,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">A personal expense tracker application.</td>
       <td style="padding: 4px;"><a href="https://expense-tracker-rose-nine.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/expense-tracker" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>QTify</b></td>
@@ -202,6 +207,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">Music Streaming App UI Layout.</td>
       <td style="padding: 4px;"><a href="https://qtify-seven-iota.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/L-square-QTify" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>SwiftExit</b></td>
@@ -209,6 +215,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">JWT Auth enables RBAC application for submitting and reviewing resignations.</td>
       <td style="padding: 4px;"><a href="https://swift-exit-frontend.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/swift-exit-fullstack-app" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>Task Manager</b></td>
@@ -216,6 +223,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">CRUD operations based full-stack task management platform.</td>
       <td style="padding: 4px;"><a href="https://task-manager-frontend-green.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/task-manager-fullstack" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>Weather App</b></td>
@@ -223,6 +231,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">Live weather data App which displays current weather of chosen location around the world.</td>
       <td style="padding: 4px;"><a href="https://weather-app-eight-swart-30.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/weather-app" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
     <tr>
       <td style="padding: 4px;"><b>BotAI</b></td>
@@ -230,6 +239,7 @@ DEV OPS : Azure Dev-ops.
       <td style="padding: 4px;">AI Chat Application UI Layout for static data.</td>
       <td style="padding: 4px;"><a href="https://bot-ai-lime.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/bot-ai" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
     </tr>
   </tbody>
 </table>
