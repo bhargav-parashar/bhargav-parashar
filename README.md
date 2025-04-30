@@ -169,6 +169,14 @@ DEV OPS : Azure Dev-ops.
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td style="padding: 4px;"><b>Portfolio</b></td>
+      <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, VITE</td>
+      <td style="padding: 4px;">Portfolio website containing skills and project details.</td>
+      <td style="padding: 4px;"><a href="https://portfolio-five-flame-44.vercel.app/" target="_blank">Live</a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/portfolio" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
+    </tr>
     <tr>
       <td style="padding: 4px;"><b>AuthHR</b></td>
       <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Mongoose, Parcel, REST</td>
