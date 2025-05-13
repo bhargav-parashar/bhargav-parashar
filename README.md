@@ -2,7 +2,7 @@
 <h4 align="left">
   Hi, I’m Bhargav — a full-stack developer passionate about building meaningful web applications. I love combining the fundamentals of JavaScript with React, Node.js, Express, and MongoDB to bring ideas to life. My problem-solving approach is rooted in experimentation; whether it's at work or in my free time, I’m constantly building, tinkering, and learning something new with every project.
   </br></br>
-FRONTEND : ReactJS, HTML, CSS, Vanilla Javascript, Material UI, react-router-dom, axios, notistack, dayjs, Bootstrap, Figma.</br></br>
+FRONTEND : ReactJS, HTML, CSS, Vanilla Javascript, Material UI, Tailwind, react-router-dom, axios, notistack, dayjs, Bootstrap, Figma.</br></br>
 BACKEND : NodeJs, Express, MongoDB, Mongoose ODM, MariaDB, SQL, Stored Procedures, Postman, JSON Web Token, bcrypt (password hashing), joi, cors. </br></br>
 DEV OPS : Azure Dev-ops.  
 </h4>
