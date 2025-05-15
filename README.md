@@ -103,6 +103,16 @@ DEV OPS : Azure Dev-ops.
     /> 
   </a> 
 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+  <img 
+    align="left"
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+    alt="tailwind" 
+    width="30"
+    height="30"
+    /> 
+  </a> 
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
