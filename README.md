@@ -2,9 +2,9 @@
 <h4 align="left">
   Hi, I’m Bhargav — a full-stack developer passionate about building meaningful web applications. I love combining the fundamentals of JavaScript with React, Node.js, Express, and MongoDB to bring ideas to life. My problem-solving approach is rooted in experimentation; whether it's at work or in my free time, I’m constantly building, tinkering, and learning something new with every project.
   </br></br>
-FRONTEND : ReactJS, HTML, CSS, Vanilla Javascript, Material UI, Tailwind, react-router-dom, axios, notistack, dayjs, Bootstrap, Figma.</br></br>
+FRONTEND : ReactJS, HTML, CSS, Javascript, Material UI, Tailwind, Bootstrap, Figma.</br></br>
 BACKEND : NodeJs, Express, MongoDB, Mongoose ODM, MariaDB, SQL, Stored Procedures, Postman, JSON Web Token, bcrypt (password hashing), joi, cors. </br></br>
-DEV OPS : Azure Dev-ops.  
+DEV OPS : Azure Dev-ops.</br></br>
 </h4>
 
 
@@ -167,6 +167,31 @@ DEV OPS : Azure Dev-ops.
 
 </p>
 <h2>Projects</h2>
+<h3>In-progress</h3>
+<table style="font-size: 12px; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 4px; text-align: left;">Project</th>
+      <th style="padding: 4px; text-align: left;">Tech Stack</th>
+      <th style="padding: 4px; text-align: left;">Description</th>
+      <th style="padding: 4px; text-align: left;">Live Site</th>
+      <th style="padding: 4px; text-align: left;">GitHub Repo</th>
+      <th style="padding: 4px; text-align: left;">Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td style="padding: 4px;"><b>Vyoma</b></td>
+      <td style="padding: 4px;">React, Tailwind, JavaScript, HTML, CSS, VITE</td>
+      <td style="padding: 4px;">Myntra inspired e-commerce website with Cart functionality.</td>
+      <td style="padding: 4px;"><a href="" target="_blank"></a></td>
+      <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/vyoma" target="_blank">Code</a></td>
+      <td style="padding: 4px;"></td>
+    </tr>
+   
+  </tbody>
+</table>
+<h3>Completed</h3>
 <table style="font-size: 12px; border-collapse: collapse;">
   <thead>
     <tr>
