@@ -297,8 +297,8 @@ DEV OPS : Azure Dev-ops.</br></br>
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="bhargavparashar"
-      height="15"
-      width="25"
+      height="25"
+      width="35"
   /></a>
 
 
@@ -307,8 +307,8 @@ DEV OPS : Azure Dev-ops.</br></br>
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
       alt="bhp100" 
-      height="15"
-      width="25" 
+      height="25"
+      width="35" 
     /></a>
 
 
