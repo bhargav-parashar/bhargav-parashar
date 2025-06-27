@@ -29,6 +29,56 @@ DEV OPS : Azure Dev-ops.</br></br>
     />
   </a>
 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+  <img 
+    align="left"
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
+    alt="tailwind" 
+    width="30"
+    height="30"
+    /> 
+  </a> 
+
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+  <img 
+    align="left"
+    src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" 
+    alt="material UI" 
+    width="30"
+    height="30"
+    /> 
+  </a> 
+
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
+      alt="html5"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="text-decoration:none">
+    <img
+      align="left"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
+      alt="css3"
+      width="30"
+      height="30"
+    />
+  </a>
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
@@ -39,9 +89,7 @@ DEV OPS : Azure Dev-ops.</br></br>
   /> 
   </a>
 
-  
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
     src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" 
@@ -71,48 +119,6 @@ DEV OPS : Azure Dev-ops.</br></br>
     />
    </a>
    
-
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="text-decoration:none">
-    <img
-      align="left"
-      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg"
-      alt="html5"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="text-decoration:none">
-    <img
-      align="left"
-      src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
-      alt="css3"
-      width="30"
-      height="30"
-    />
-  </a>
-
-
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-  <img 
-    align="left"
-    src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" 
-    alt="material UI" 
-    width="30"
-    height="30"
-    /> 
-  </a> 
-
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-  <img 
-    align="left"
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-    alt="tailwind" 
-    width="30"
-    height="30"
-    /> 
-  </a> 
-
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  style="text-decoration:none">
     <img
       align="left"
