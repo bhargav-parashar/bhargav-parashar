@@ -172,6 +172,29 @@
 </p>
 </br>
 </br>
+<h3>PROFILES</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/bhargavparashar" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="bhargavparashar"
+      height="25"
+      width="35"
+  /></a>
+
+
+  <a href="https://leetcode.com/u/bhp100/" target="_blank" >
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      alt="bhp100" 
+      height="25"
+      width="35" 
+    /></a>
+    </p>
+</br>
+</br>
 <h3>PROJECTS</h3>
 <h3>In-progress</h3>
 <table style="font-size: 12px; border-collapse: collapse;">
@@ -297,25 +320,7 @@
 
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/bhargavparashar" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="bhargavparashar"
-      height="25"
-      width="35"
-  /></a>
 
-
-  <a href="https://leetcode.com/u/bhp100/" target="_blank" >
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-      alt="bhp100" 
-      height="25"
-      width="35" 
-    /></a>
 
 
 
