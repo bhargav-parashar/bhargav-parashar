@@ -194,6 +194,7 @@
     </p>
 </br>
 </br>
+</br>
 <h3>PROJECTS</h3>
 <h3>In-progress</h3>
 <table style="font-size: 12px; border-collapse: collapse;">
