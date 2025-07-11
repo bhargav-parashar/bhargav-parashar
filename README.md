@@ -5,7 +5,6 @@
 <h3>SKILLS</h3>
 </h4>
 
-
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img
