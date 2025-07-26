@@ -46,6 +46,16 @@
     /> 
   </a> 
 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+  <img 
+    align="left"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+    alt="reduxToolkit" 
+    width="30"
+    height="30"
+    /> 
+  </a> 
+
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
   <img 
     align="left"
