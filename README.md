@@ -196,7 +196,6 @@
 </br>
 
 <h3>PROJECTS</h3>
-<h3>In-progress</h3>
 <table style="font-size: 12px; border-collapse: collapse;">
   <thead>
     <tr>
@@ -209,7 +208,7 @@
     </tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
       <td style="padding: 4px;"><b>Vyoma</b></td>
       <td style="padding: 4px;">React, Tailwind, Redux Toolkit, JavaScript, HTML, CSS, VITE</td>
       <td style="padding: 4px;">Myntra inspired e-commerce website with Cart functionality.</td>
@@ -217,22 +216,6 @@
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/vyoma" target="_blank">Code</a></td>
       <td style="padding: 4px;"></td>
     </tr>
-   
-  </tbody>
-</table>
-<h3>Completed</h3>
-<table style="font-size: 12px; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="padding: 4px; text-align: left;">Project</th>
-      <th style="padding: 4px; text-align: left;">Tech Stack</th>
-      <th style="padding: 4px; text-align: left;">Description</th>
-      <th style="padding: 4px; text-align: left;">Live Site</th>
-      <th style="padding: 4px; text-align: left;">GitHub Repo</th>
-      <th style="padding: 4px; text-align: left;">Demo</th>
-    </tr>
-  </thead>
-  <tbody>
      <tr>
       <td style="padding: 4px;"><b>Portfolio</b></td>
       <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, VITE</td>
