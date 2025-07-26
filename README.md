@@ -211,7 +211,7 @@
   <tbody>
      <tr>
       <td style="padding: 4px;"><b>Vyoma</b></td>
-      <td style="padding: 4px;">React, Tailwind, JavaScript, HTML, CSS, VITE</td>
+      <td style="padding: 4px;">React, Tailwind, Redux Toolkit, JavaScript, HTML, CSS, VITE</td>
       <td style="padding: 4px;">Myntra inspired e-commerce website with Cart functionality.</td>
       <td style="padding: 4px;"><a href="" target="_blank"></a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/vyoma" target="_blank">Code</a></td>
