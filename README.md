@@ -221,7 +221,7 @@
     <tr>
       <td style="padding: 4px;"><b>Vyoma</b></td>
       <td style="padding: 4px;">React, Tailwind, Redux Toolkit, JavaScript, HTML, CSS, VITE</td>
-      <td style="padding: 4px;">An e-commerce platform inspired by Myntra, allowing users to browse, filter, and manage products via cart and wishlist features.</td>
+      <td style="padding: 4px;">An e-commerce platform allowing users to browse, filter, and manage products via cart and wishlist features.</td>
       <td style="padding: 4px;"><a href="https://vyoma-six.vercel.app/" target="_blank">Live</a></td>
       <td style="padding: 4px;"><a href="https://github.com/bhargav-parashar/vyoma" target="_blank">Code</a></td>
       <td style="padding: 4px;"></td>
