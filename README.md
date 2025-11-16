@@ -231,7 +231,7 @@
       <td style="padding: 4px;">React, Material UI, JavaScript, HTML, CSS, VITE</td>
       <td style="padding: 4px;">Portfolio website containing skills and project details.</td>
       <td style="padding: 4px;"><a href="https://portfolio-five-flame-44.vercel.app/" target="_blank">Live</a></td>
-      <td style="padding: 4px;">Private Repo</td>
+      <td style="padding: 4px;">Private</td>
       <td style="padding: 4px;"></td>
     </tr>
     <tr>
